@@ -6,7 +6,7 @@ pyyaml
 requests-toolbelt
 SimpleITK
 opencv-python
-tensorflow==2.1.0
+tensorflow==2.5.1
 glob3
 mudicom
 Pillow
